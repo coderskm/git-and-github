@@ -1,6 +1,6 @@
 print("Hello World ! Welcome to Python calculator")
 num1 = int(input("Enter number 1:"))
 num2 = int(input("Enter number 2:"))
-diff = num1 - num2
-print("diff of both the numbers is: "+str(diff))
+prod = num1 * num2
+print("product of both the numbers is: "+str(prod))
 print("This is Great !!!")
